@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{EC286B82-8D7D-7BDC-7B84-ECBB9EBB5508}") = "VR Game copy", "Assembly-CSharp.csproj", "{EA36A49A-F433-9936-6583-994CFB4AE427}"
+EndProject
+Project("{EC286B82-8D7D-7BDC-7B84-ECBB9EBB5508}") = "VR Game copy", "Assembly-CSharp-Editor.csproj", "{5C77D173-0192-4C78-9AF1-D56032F146FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA36A49A-F433-9936-6583-994CFB4AE427}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA36A49A-F433-9936-6583-994CFB4AE427}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA36A49A-F433-9936-6583-994CFB4AE427}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA36A49A-F433-9936-6583-994CFB4AE427}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C77D173-0192-4C78-9AF1-D56032F146FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C77D173-0192-4C78-9AF1-D56032F146FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C77D173-0192-4C78-9AF1-D56032F146FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C77D173-0192-4C78-9AF1-D56032F146FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+/Volumes/Projects/VR Game/Temp/bin/Debug/UnityEngine.dll
+/Volumes/Projects/VR Game/Temp/bin/Debug/UnityEditor.dll
+/Volumes/Projects/VR Game/Temp/bin/Debug/UnityEngine.UI.dll
+/Volumes/Projects/VR Game/Temp/bin/Debug/UnityEngine.Networking.dll
+/Volumes/Projects/VR Game/Temp/bin/Debug/Google.ProtocolBuffers.dll
+/Volumes/Projects/VR Game/Temp/bin/Debug/ICSharpCode.SharpZipLib.dll
+/Volumes/Projects/VR Game/Temp/bin/Debug/Mono.Cecil.dll
+/Volumes/Projects/VR Game/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Volumes/Projects/VR Game/Temp/bin/Debug/Unity.DataContract.dll
+/Volumes/Projects/VR Game/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Volumes/Projects/VR Game/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Volumes/Projects/VR Game/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Volumes/Projects/VR Game/Temp/bin/Debug/Unity.CecilTools.dll
+/Volumes/Projects/VR Game/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Volumes/Projects/VR Game/Temp/bin/Debug/Mono.Cecil.Mdb.dll
